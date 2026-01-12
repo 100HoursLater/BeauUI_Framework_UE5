@@ -1,6 +1,6 @@
 # BeauUI_UE5_Framework
 
-A Framework developed by your truly, its lightweight and minimalist and designed for you to build upon.
+A Framework developed by your truly, its lightweight and minimalist Unreal Engine 5 User Interface Framework and designed for you to build upon.
 
 ## Modifictions:
 1. If you patch bugs -> You can commit that to the main branch
