@@ -46,5 +46,7 @@ EventBeginPlay() -> setInputModeUIOnly -> Set Show Mouse cursor(True/on) -> Crea
 
 once this is done, simply a case inside of the `WBP_MainMenu` graph, changing the `none` on `CreateWidget` to whatever widget fits that buttons text. 
 
+after this, go into every WBP (including combat warning for the font) and change the font family from `none` to `Google Sans` (Bold or Normal, Your choice) than after this change the `none` on `create widget` to `MainMenu` and do this for the MainMenu Widget Blueprints, once this is done, well that's it. (Check the BP for activating the combat warning if the WBP is still referenced, if it isn't set that to combat warning)
+
 (Music manager was removed cause it was horribly broken)
 
