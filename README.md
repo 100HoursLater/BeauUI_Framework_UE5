@@ -51,7 +51,6 @@ For `new game` in the `WBP_MainMenu` do this in the graph:
 ``` Blueprints
 
 Button() -> SetInputModeGameOnly -> set show cursor(false/off) -> OpenLevel(filter -> **whatevery you level is**)
-–
   getplayercontroller() ---↑---------------↑
 
 
