@@ -39,7 +39,7 @@ then Go into your Level BP, and off event begin play do this:
 
 ``` Blueprints
 
-EventBeginPlay() -> setInputModeUIOnly -> Set Show Mouse cursor(True/on) -> Create Widget(filter -> Main menu) -> add to viewport
+EventBeginPlay() -> setInputModeUIOnly -> Set Show Mouse cursor(True/on) -> Create Widget(filter -> Main menu) -> add to viewport;
     get player controller() --------------------↑
 
 ```
