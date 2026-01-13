@@ -3,7 +3,7 @@
 A Framework developed by your truly, its lightweight and minimalist Unreal Engine 5 User Interface Framework and designed for you to build upon.
 
 ## Modifictions:
-1. If you patch bugs -> You can commit that to the main branch
+1. If you patch bugs -> You can submit a pull request to the main branch
 2. If you make significant changes and cause you have to share that with the class, please either fork it or create a new branch.
 3. DO NOT REMOVE THE COPYRIGHT NOTICE FOR EPIC GAMES, if you do that's on you!
 
