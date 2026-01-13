@@ -2,8 +2,6 @@
 
 A Framework developed by your truly, its lightweight and minimalist Unreal Engine 5 User Interface Framework and designed for you to build upon.
 
-***This Framework will only work on Third Person Template Projects**
-
 ## Modifictions:
 1. If you patch bugs -> You can submit a pull request to the main branch
 2. If you make significant changes and cause you have to share that with the class, please either fork it or create a new branch.
